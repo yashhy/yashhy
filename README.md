@@ -10,6 +10,6 @@
 
 ---
 
-### GitHub Stats
+![My Profile Views](https://komarev.com/ghpvc/?username=yashhy&color=810581&style=flat-square&label=GitHub+Profile+Views)
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=yashhy&count_private=true&show_icons=true&theme=highcontrast)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashhy&count_private=true&show_icons=true&theme=highcontrast)
