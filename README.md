@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with [freshworks](https://github.com/freshworks)
 - 👯 I’m looking to collaborate on any open source
-- 💬 Ask me about : Android 📱, React ⚛️, Angular, Aviation 🛫
+- 💬 Ask me about : Android 📱, React ⚛️, Angular, Aviation 🛫, Stocks 💹
 - 👉🏻 Some of my works: [yashhy.github.io](http://yashhy.github.io/)
 - 🎨 Passionate about : Code ⌨️, Security vulnerabilities 🔒, Aviation 🛫
 - 🎭 Hobbies : Photography 📸, Podcasts 🎧 ([vulnerabilities](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vZGFya25ldGRpYXJpZXM), [social engineering](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vaGFja2luZy1odW1hbnM), [aviation](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZmxpZ2h0cmFkYXIyNC5jb20vYmxvZy9mZWVkL3BvZGNhc3Qv))
