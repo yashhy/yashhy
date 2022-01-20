@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yashwanth 
 
-- 🔭 I’m currently working with [freshworks](https://github.com/freshworks)
+- 🔭 I’m currently working with [Sennder GmbH](https://github.com/sennder)
 - 👯 I’m looking to collaborate on any open source
 - 💬 Ask me about : Android 📱, React ⚛️, Angular, Aviation 🛫, Stocks 💹
 - 👉🏻 Some of my works: [yashhy.github.io](http://yashhy.github.io/)
